@@ -12,17 +12,17 @@ var CloudProviders string = `
         {
             "id": "aws",
             "description": "Amazon cloud service",
-            "directory": "infra/terraform/aws"
+            "directory": "terraform/aws"
         },
         {
             "id": "azure",
             "description": "Microsoft Azure cloud service",
-            "directory": "infra/terraform/azure"
+            "directory": "terraform/azure"
         },
         {
             "id": "gcp",
             "description":"Google cloud service",
-            "directory": "infra/terraform/gcp"
+            "directory": "terraform/gcp"
         }
 	]
 }

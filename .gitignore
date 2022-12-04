@@ -44,3 +44,4 @@ generated-ssh-key-pairs/
 *.tar.gz
 *.tgz
 *.zip
+/tfrunner
